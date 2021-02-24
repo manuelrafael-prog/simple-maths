@@ -1,3 +1,5 @@
+# simple-maths (https://www.digitalocean.com/community/tutorials/how-to-make-a-calculator-program-in-python-3)
+
 def calculate():
     operation = input('''
 Please type in the math operation you would like to complete:
