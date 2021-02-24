@@ -1,5 +1,5 @@
 # simple maths (https://www.programiz.com/python-programming/examples/calculator)
-# will be improved further later
+# features and improvements will be made later
 
 # addition of two numbers
 def add(x, y):
