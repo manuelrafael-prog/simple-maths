@@ -1,9 +1,3 @@
-def welcome():
-    print('''
-Welcome to Calculator
-''')
-
-
 def calculate():
     operation = input('''
 Please type in the math operation you would like to complete:
